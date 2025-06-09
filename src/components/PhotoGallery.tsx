@@ -3,7 +3,7 @@ import React from 'react';
 const PhotoGallery = () => {
   const photos = [
     {
-      url: "src/components/pic.png",
+      url: "public/pic.png",
       alt: "Professional headshot"
     },
     {
