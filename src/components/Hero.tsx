@@ -19,7 +19,7 @@ const Hero = () => {
           <div className="relative mt-8">
             <div className="w-72 h-72 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-2xl">
               <img
-                src="src\components\pic.jpg"
+                src='pic.jpg'
                 alt="Ajay"
                 className="w-full h-full object-cover"
               />
