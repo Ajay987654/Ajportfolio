@@ -32,6 +32,11 @@ const Skills = () => {
       icon: <Palette size={32} />,
       title: 'Design & Tools',
       skills: ['Figma', 'Adobe XD', 'Git', 'Vite'],
+    },
+    {
+      icon: <Palette size={32} />,
+      title: 'Data Science & Analytics',
+      skills: ['Python', 'Pandas & NumPy', 'Matplotlib', "Data VIzualization", 'Machine Learning',"Power BI","Satistical Analysis"],
     }
   ];
 
